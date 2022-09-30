@@ -1,0 +1,15 @@
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/chapter1.csproj.AssemblyReference.cache
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/chapter1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/chapter1.AssemblyInfoInputs.cache
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/chapter1.AssemblyInfo.cs
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/chapter1.csproj.CoreCompileInputs.cache
+/Users/khim/Desktop/chapter1/bin/Debug/net6.0/chapter1
+/Users/khim/Desktop/chapter1/bin/Debug/net6.0/chapter1.deps.json
+/Users/khim/Desktop/chapter1/bin/Debug/net6.0/chapter1.runtimeconfig.json
+/Users/khim/Desktop/chapter1/bin/Debug/net6.0/chapter1.dll
+/Users/khim/Desktop/chapter1/bin/Debug/net6.0/chapter1.pdb
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/chapter1.dll
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/refint/chapter1.dll
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/chapter1.pdb
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/chapter1.genruntimeconfig.cache
+/Users/khim/Desktop/chapter1/obj/Debug/net6.0/ref/chapter1.dll
